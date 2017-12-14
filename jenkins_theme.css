@@ -630,8 +630,11 @@ td {
 
 /*Additions by Alejandro Tommasino*/
 #jenkins-head-icon {
-width:0px;
-height:0px;
-padding: 15px;
-background: url(https://www.itx.com/portals/_default/skins/itxnew/img/logo.png)!Important;
+background: url(https://www.itx.com/portals/_default/skins/itxnew/img/logo.png) no-repeat;
+display: block;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+width: 180px;
+height: 236px;
+padding-left: 180px;
 }
