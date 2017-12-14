@@ -627,3 +627,11 @@ td {
 [style^="color:red"] {
     color: #F44336!important
 }
+
+/*Additions by Alejandro Tommasino*/
+#jenkins-head-icon {
+width:0px;
+height:0px;
+padding: 15px;
+background: url(https://www.itx.com/portals/_default/skins/itxnew/img/logo.png);
+}
