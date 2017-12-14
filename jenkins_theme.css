@@ -629,7 +629,7 @@ td {
 }
 
 /*Additions by Alejandro Tommasino*/
-#jenkins-head-icon {
+#jenkins-name-icon {
 background: url(https://www.itx.com/portals/_default/skins/itxnew/img/logo.png) no-repeat;
 display: block;
 -moz-box-sizing: border-box;
